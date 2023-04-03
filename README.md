@@ -29,3 +29,8 @@ Use this as the "Publish command" if needed by hosting services such as Netlify.
 ## Resources
 
 <small>The starter was inspired by [11ty Sass Skeleton](https://github.com/5t3ph/11ty-sass-skeleton) by [@5t3ph](https://twitter.com/5t3ph)</small>
+
+Photo by <a href="https://unsplash.com/@killerfvith?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alex wong</a> on <a href="https://unsplash.com/s/photos/abstract-world?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+Photo by <a href="https://unsplash.com/@marcojodoin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Marc-Olivier Jodoin</a> on <a href="https://unsplash.com/photos/eiMzJl3xj4o?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
