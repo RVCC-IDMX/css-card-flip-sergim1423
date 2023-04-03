@@ -1,8 +1,14 @@
 /* typography */
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,300&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+$font: "Lato", serif;
 
-$font: "Poppins", serif;
+@font-face {
+  font-family: 'Lato';
+  src: url("../base/lato-black-webfont.woff") format('woff');
+  font-weight: 100 900;
+  font-display: swap;
+}
 
 // body font styling vars
 $body-font-size: 120%;
